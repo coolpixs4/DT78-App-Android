@@ -1,0 +1,119 @@
+<resources>
+<string name="app_name">Ứng dụng kết nối DT78</string>
+<string name="service_name">Dịch vụ kết nối DT78</string>
+<string name="choose_app">Lựa chọn ứng dụng</string>
+<string name="preferences">Nhóm sở thích </string>
+<string name="settings">Cài đặt</string>
+<string name="health">Sức khỏe</string>
+<string name="watch_settings">Thiết lập cài đặt đồng hồ</string>
+<string name="run_as_service">Dịch vụ chạy nền</string>
+<string name="run_as_service_summary">Úng dụng chạy nền mà không cần phải bật app lên</string>
+<string name="remote_mac_address">Thiếp lập địa chỉ MAC</string>
+<string name="remote_mac_address_default">00:00:00:00:00:00</string>
+<string name="notification_access">Truy cập các thông báo</string>
+<string name="notification_access_summary">Chấp nhận truy cập đến các thông báo</string>
+<string name="mac_format_error">Địa chỉ MAC phải có dạng A1:BB:3C:44:DE:9F</string>
+<string name="stop_service">Dừng dịch vụ</string>
+<string name="start_service">Bắt đầu dịch vụ</string>
+<string name="start_at_boot">Khởi chạy cùng khi boot</string>
+<string name="notify_disconnect">Thông báo kết nối bị ngắt</string>
+<string name="lock_phone">Khóa tìm kiếm đt </string>
+<string name="not_disconnect">Hiển thị thông báo khi thiết bị ngắt kêts nối </string>
+<string name="start_service_at_boot">
+Cho phép khởi chạy dịch vụ kết nối khi khởi động máy đt
+</string>
+<string name="channel_desc">Các hiển thị thông báo khi kết nối </string>
+<string name="flip_vertically">Quay màn hình dọc </string>
+<string name="flip_vertically_summary">Cho phép quay màn hình dọc </string>
+<string name="sync_watch">Đang đồng bộ dữ liệu từ đồng hồ </string>
+<string name="unable_sync">Không thể đồng bọ dữ liệu </string>
+<string name="find_watch">Tìm kiếm đồng hồ</string>
+<string name="not_connect">Đồng hồ không được kết nối</string>
+<string name="grant_notification">
+Có vẻ như trước tiên bạn phải cấp cho ứng dụng này quyền truy cập thông báo. Bạn có muốn tiếp tục?
+</string>
+<string name="test_notification">Kiểm tra các thông báo</string>
+<string name="test_notification_desc">
+Gửi thông báo kiểm tra đến đồng hồ. Chọn một biểu tượng sẽ được hiển thị cùng với văn bản
+</string>
+<string name="send">Gửi đi</string>
+<string name="save">Lưu trữ</string>
+<string name="cancel">Hủy bỏ</string>
+<string name="not_enable">Không cho phép</string>
+<string name="mac_addr">Địa chỉ MAC</string>
+<string name="later">Để sau</string>
+<string name="setup_now">Thiếp lập bây giờ</string>
+<string name="setup_desc">Cài đặt MAC trong phần thiết lập</string>
+<string name="hrm">Đo nhịp tim</string>
+<string name="bph">Đo huyết áp</string>
+<string name="sp02">Đo nồng độ Oxy trong máu</string>
+<string name="user">Người dùng</string>
+<string name="reminder">Nhắc nhở</string>
+<string name="find_w">Tìm kiếm đồng hồ</string>
+<string name="test">Kiểm tra</string>
+<string name="custom">Do khách hàng đặt</string>
+<string name="camera">Chụp ảnh</string>
+<string name="enable_lock">Cho phép ứng dụng khóa đt</string>
+<string name="hr12_sys">Chế độ giờ 12</string>
+<string name="hourly">Đo lường theo giờ</string>
+<string name="units">Đơn vị đo</string>
+<string name="quiet">Chế độ im lặng</string>
+<string name="alarms">Các báo thức</string>
+<string name="alarm">Báo thức</string>
+<string name="sedentary">Nhắc vận động</string>
+<string name="age">Tuổi</string>
+<string name="step_len">Chiều dài sải chân</string>
+<string name="height">Chiều cao</string>
+<string name="weight">Cân nặng</string>
+<string name="target">Số bước mục tiêu</string>
+<string name="sleep">Giờ ngủ</string>
+<string name="connect_set">Kết nối đồng hồ để đặt báo thức một lần</string>
+<string name="years">Năm</string>
+<string name="kcal">kcal</string>
+<string name="distance">Khoảng cách</string>
+<string name="cm">cm</string>
+<string name="kg">kg</string>
+<string name="km">km</string>
+<string name="miles">miles</string>
+<string name="loading">Đang tải ...</string>
+<string name="steps">steps</string>
+<string name="mmHg">mmHg</string>
+<string name="bpm">bpm</string>
+<string name="start_measure">Nhấn để bắt đầu đo</string>
+<string name="stop_measure">Nhấn để dừng đo</string>
+<string name="scan">Đang quét...</string>
+<string name="connecting">Đang kết nối tới...</string>
+<string name="connected">Đã được kết nối</string>
+<string name="loss_link">Mất kết nối tới</string>
+<string name="disconnecting">Ngắt kết nối khỏi</string>
+<string name="disconnected">Ngắt kết nối từ</string>
+<string name="battery">Battery</string>
+<string name="choose_apps">Nhấn để lựa chọn ứng dụng</string>
+<string name="once">Một lần</string>
+<string name="everyday">Hàng ngày</string>
+<string name="mon_fri">Thứ 2 - Thứ 6</string>
+<string name="sun">Chủ nhật</string>
+<string name="mon">Thứ 2</string>
+<string name="tue">Thứ 3</string>
+<string name="wed">Thứ 4</string>
+<string name="thur">Thứ 5</string>
+<string name="fri">Thứ 6</string>
+<string name="sat">Thứ 7</string>
+<string name="su">S</string>
+<string name="mo">M</string>
+<string name="tu">T</string>
+<string name="we">W</string>
+<string name="th">T</string>
+<string name="fr">F</string>
+<string name="sa">S</string>
+<string-array name="alarm_options">
+<item>Một lần</item>
+<item>Hàng ngày</item>
+<item>Thứ 2 - Thứ 6</item>
+<item>Do khách hàng tự đặt</item>
+</string-array>
+<string-array name="sedentaryInterval">
+<item>45 phút</item>
+<item>1 giờ</item>
+</string-array>
+</resources>
